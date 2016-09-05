@@ -16,10 +16,15 @@ view [Project pages](https://medmatix.github.io/categoryType/) here.
 ##References
   
   Agresti,Alan _**Analysis of Ordinal Categorical Data**_, John Wiley & Sons, New Jersey, 2010.
+    
   "_**Factors in R**_". http://www.stat.berkeley.edu/classes/s133/factors.html accessed September 5, 2016 at 05:11pm.
+    
   Draper, Norman R; Harry Smith _**Applied Regression Analysis**_, Third Edition, Wiley Interscience, New York, 1998.
+    
   _-**Categorical Variable**_, https://en.wikipedia.org/wiki/Categorical_variable, accessed, September 5, 2016 at 05:22pm.
+    
   Powers, Daniel A.; Yu Xie _**Statistical Methods for Categorical Data Analysis**_,Academic Press, 1999.
+  
   Blasius, Jorg; Michael Greenacre, _**Visualization of Categorical Data**_, Academic Press, London, 1998.
 
 
