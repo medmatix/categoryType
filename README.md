@@ -21,7 +21,7 @@ view [Project pages](https://medmatix.github.io/categoryType/) here.
     
   Draper, Norman R; Harry Smith _**Applied Regression Analysis**_, Third Edition, Wiley Interscience, New York, 1998.
     
-  _-**Categorical Variable**_, https://en.wikipedia.org/wiki/Categorical_variable, accessed, September 5, 2016 at 05:22pm.
+  "_**Categorical Variable**_", https://en.wikipedia.org/wiki/Categorical_variable, accessed, September 5, 2016 at 05:22pm.
     
   Powers, Daniel A.; Yu Xie _**Statistical Methods for Categorical Data Analysis**_,Academic Press, 1999.
   
