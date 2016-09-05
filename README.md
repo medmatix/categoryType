@@ -1,7 +1,7 @@
 # categoryType
 A category or factor data type for C++,
   
-view [Project pages](https://medmatix.github.io/UtilCSV/) here.
+view [Project pages](https://medmatix.github.io/categoryType/) here.
 
 ## Introduction and Overview
   
@@ -11,4 +11,9 @@ view [Project pages](https://medmatix.github.io/UtilCSV/) here.
   
 ## Design Requirements
   
+  Categorical data, in the R-style model needs to have a rank value (a numeric level) and a text or string value (a level name) in order to quickly serve all the roles of a categorical or factor type variable.
+  
+##References
+  
+  Agresti,Alan <u>Analysis of Ordinal Categorical Data<u>, John Wiley & Sons, New Jersey, 2010.
 
