@@ -15,5 +15,5 @@ view [Project pages](https://medmatix.github.io/categoryType/) here.
   
 ##References
   
-  Agresti,Alan <u>Analysis of Ordinal Categorical Data<u>, John Wiley & Sons, New Jersey, 2010.
+  Agresti,Alan _ **Analysis of Ordinal Categorical Data** _, John Wiley & Sons, New Jersey, 2010.
 
