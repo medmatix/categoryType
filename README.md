@@ -1,5 +1,6 @@
 # categoryType
 A category or factor data type for C++
+view [Project pages]() here.
 
 ## Introduction and Overview
   
