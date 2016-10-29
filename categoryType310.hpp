@@ -22,7 +22,7 @@
 
 #include "dataframe.hpp"
 #include "node.hpp"
-#include "category.hpp"
+#include "categoryType310.hpp"
 
 
 class categoryType{
