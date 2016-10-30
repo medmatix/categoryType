@@ -37,11 +37,11 @@ class category
         /** Access rankMap
          * \return The current value of rankMap
          */
-        map<int,string) GetrankMap() { return rankMap; }
+        map<int,string> GetrankMap() { return rankMap; }
         /** Set rankMap
          * \param val New value to set
          */
-        void SetrankMap(map<int,string) val) { rankMap = val; }
+        void SetrankMap(map<int,string> val) { rankMap = val; }
         /** Access rankData
          * \return The current value of rankData
          */
@@ -50,6 +50,14 @@ class category
          * \param val New value to set
          */
         void SetrankData(vector<int> val) { rankData = val; }
+        /** Access dummyVar
+         * \return The current value of dummyVar
+         */
+        vector<vector<int> > GetdummyVar() { return dummyVar; }
+        /** Set dummyVar
+         * \param val New value to set
+         */
+        void SetdummyVar(vector<vector<int> > val) { dummyVar = val; }
 
     protected:
 
@@ -57,8 +65,9 @@ class category
         string categoryName; //!< Member variable "categoryName"
         int numRanks; //!< Member variable "numRanks"
         int numElems; //!< Member variable "numElems"
-        map<int,string) rankMap; //!< Member variable "rankMap"
+        map<int,string> rankMap; //!< Member variable "rankMap"
         vector<int> rankData; //!< Member variable "rankData"
+        vector<vector<int> > dummyVar; //!< Member variable "dummyVar"
 };
 
 #endif // CATEGORY_H
